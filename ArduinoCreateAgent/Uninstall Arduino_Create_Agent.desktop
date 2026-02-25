@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=0.9.4
+Name=Uninstall Arduino_Create_Agent
+Comment=Uninstall
+Icon=
+Exec=/home/seer/ArduinoCreateAgent/uninstall
+Terminal=false
+Path=/home/seer/ArduinoCreateAgent
